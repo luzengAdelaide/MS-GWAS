@@ -1,3 +1,5 @@
+# Estimate heritability and genetic correlation from 24 GWAS summary statistics using LDSC
+
 #!/bin/bash
 
 #SBATCH --time=7-00:00 

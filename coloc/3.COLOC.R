@@ -38,7 +38,6 @@ for(eqtl_window_file in eqtl_windows) {
   gene <- eqtl_window_file %>% basename %>% str_match("eQTL_(.+)\\.txt") %>% .[2]
   
   dir = "/mnt/mfs/ctcn/team/lu/project_msgwas/genetic/coloc/results"
-  # dir = "~/tmp2/OPC/"
   
   outfile <- sprintf("%s/%s.%s-%s.coloc.tsv", dir, celltype, rsid, gene)
   

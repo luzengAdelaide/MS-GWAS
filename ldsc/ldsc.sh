@@ -1,4 +1,5 @@
 # Estimate heritability and genetic correlation from 24 GWAS summary statistics using LDSC
+# For more information, please refer to the source code: https://github.com/bulik/ldsc
 
 #!/bin/bash
 

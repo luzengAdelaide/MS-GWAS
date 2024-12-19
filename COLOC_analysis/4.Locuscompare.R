@@ -18,8 +18,8 @@ ld = fread(paste("~/GRCh38ampad/ld_cal/tmp.chr", chr, ".ld", sep=""), sep="\t", 
 colnames(ld) = c("CHR_A", "BP_A", "SNP_A", "CHR_B", "BP_B", "SNP_B", "R2")
 
 # read file
-eqtl_snp = read.table(paste("~/project_msgwas/genetic/coloceQTL_1MB/", celltype, "/", risk_snp, "/eQTL_", gene, ".txt", sep=""), sep="\t", header=T)
-gwas_snp = read.table(paste("~/project_msgwas/genetic/colocGWAS_1MB/GWAS_", risk_snp, ".txt", sep=""), sep="\t", header=T)
+eqtl_snp = read.table(paste("~/project_msgwas/genetic/coloc/eQTL_1MB/", celltype, "/", risk_snp, "/eQTL_", gene, ".txt", sep=""), sep="\t", header=T)
+gwas_snp = read.table(paste("~/project_msgwas/genetic/coloc/GWAS_1MB/GWAS_", risk_snp, ".txt", sep=""), sep="\t", header=T)
 
 eqtl_snp$logp = -log10(eqtl_snp$pvalue)
 eqtl_snp$pos2 = paste(eqtl_snp$chr, eqtl_snp$pos, sep=":")

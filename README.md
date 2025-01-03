@@ -20,7 +20,7 @@ Multiple Sclerosis (MS) is a chronic inflammatory and neurodegenerative disease 
 
 2. [LDSC autoimmune](https://github.com/luzengAdelaide/MS-GWAS/tree/main/LDSC_autoimmune): Estimating genetic correlation from GWAS summary statistics, including MS susceptibility, MS severity,  other 12 autoimmune diseases, 4 neurodegenerative diseases, 4 psychiatric disorders, and 3 metabolic traits.
 
-3. [COLOC analysis](https://github.com/luzengAdelaide/MS-GWAS/tree/main/COLOC_analysis): Performing genetic colocalisation analysis of eQTL and MS GWAS using coloc v5.1.0.  
+3. [COLOC analysis](https://github.com/luzengAdelaide/MS-GWAS/tree/main/COLOC_analysis): Performing genetic colocalization analysis of eQTL and MS GWAS using coloc v5.1.0.  
    
 4. For PRS analysis, we used the PRS-CSx software (https://github.com/getian107/PRScsx). The PRS was optimized and tested on the eMERGE-III cohort.
 

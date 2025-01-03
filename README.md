@@ -35,3 +35,6 @@ Multiple Sclerosis (MS) is a chronic inflammatory and neurodegenerative disease 
  
  ## Download data for LDSC analysis
 European LD scores from 1000 Genomes: https://zenodo.org/records/8182036
+IMSGC MS GWAS summary statistics: https://imsgc.net/?page_id=31
+DLPFC eQTL summary statistics: https://www.synapse.org/Synapse:syn52335732
+PBMC eQTL summary statistics: https://onek1k.org/

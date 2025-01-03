@@ -1,3 +1,5 @@
+# This script is used to annotate chromosome and position (chr:pos) with corresponding rsIDs.
+
 #!/bin/bash
 
 #$-l h_vmem=10G

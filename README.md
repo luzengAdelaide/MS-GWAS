@@ -38,3 +38,4 @@ Multiple Sclerosis (MS) is a chronic inflammatory and neurodegenerative disease 
 2. IMSGC MS GWAS summary statistics: https://imsgc.net/?page_id=31
 3. DLPFC eQTL summary statistics: https://www.synapse.org/Synapse:syn52335732
 4. PBMC eQTL summary statistics: https://onek1k.org/
+5. Other GWAS summary statistics: GWAS Catalog - EMBL-EBI (https://www.ebi.ac.uk/gwas/)

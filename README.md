@@ -34,7 +34,7 @@ Multiple Sclerosis (MS) is a chronic inflammatory and neurodegenerative disease 
  7. REGENIE: https://rgcgithub.github.io/regenie/
  
  ## Download data
-European LD scores from 1000 Genomes: https://zenodo.org/records/8182036
-IMSGC MS GWAS summary statistics: https://imsgc.net/?page_id=31
-DLPFC eQTL summary statistics: https://www.synapse.org/Synapse:syn52335732
-PBMC eQTL summary statistics: https://onek1k.org/
+1. European LD scores from 1000 Genomes: https://zenodo.org/records/8182036
+2. IMSGC MS GWAS summary statistics: https://imsgc.net/?page_id=31
+3. DLPFC eQTL summary statistics: https://www.synapse.org/Synapse:syn52335732
+4. PBMC eQTL summary statistics: https://onek1k.org/

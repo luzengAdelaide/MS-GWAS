@@ -26,7 +26,7 @@ Multiple Sclerosis (MS) is a chronic inflammatory and neurodegenerative disease 
 
  ## Software download and installation instructions
  1. METAL: https://github.com/statgen/METAL
- 2. MR-MEGA: https://tools.gi.ut.ee/tools/MR-MEGA_v0.2.zip
+ 2. MR-MEGA: https://tools.gi.ut.ee/tools/MR-MEGA_v0.2.zip, more details can be found: https://genomics.ut.ee/en/tools
  3. PLINK v1.9: https://www.cog-genomics.org/plink/
  4. LDSC: https://github.com/bulik/ldsc
  5. PRS: https://github.com/getian107/PRScsx

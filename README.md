@@ -11,17 +11,17 @@ Multiple Sclerosis (MS) is a chronic inflammatory and neurodegenerative disease 
 2. Publication TBD
 
 ## Overview
-
-1. [Meta-analysis](https://github.com/luzengAdelaide/MS-GWAS/tree/main/Meta-analysis)
+1. For GWAS analysis, we used the RGENIE software 
+2. [Meta-analysis](https://github.com/luzengAdelaide/MS-GWAS/tree/main/Meta-analysis)
    - [METAL](https://github.com/luzengAdelaide/MS-GWAS/tree/main/Meta-analysis/METAL_EUR): Performing a meta-analysis of European ancestry only using METAL.
     - [MR-MEGA](https://github.com/luzengAdelaide/MS-GWAS/tree/main/Meta-analysis/MR-MEGA): Performing a multi-ancestry meta-analysis using MR-MEGA v0.2.   
     - [Random and Fixed Effects](https://github.com/luzengAdelaide/MS-GWAS/tree/main/Meta-analysis/Random_and_fixed_effects): Performing multi-ancestry fixed and random effects meta-analyses using PLINK v1.9.   
 
-2. [LDSC autoimmune](https://github.com/luzengAdelaide/MS-GWAS/tree/main/LDSC_autoimmune): Estimating genetic correlation from GWAS summary statistics, including MS susceptibility, MS severity,  other 12 autoimmune diseases, 4 neurodegenerative diseases, 4 psychiatric disorders, and 3 metabolic traits.
+3. [LDSC autoimmune](https://github.com/luzengAdelaide/MS-GWAS/tree/main/LDSC_autoimmune): Estimating genetic correlation from GWAS summary statistics, including MS susceptibility, MS severity,  other 12 autoimmune diseases, 4 neurodegenerative diseases, 4 psychiatric disorders, and 3 metabolic traits.
 
-3. [COLOC analysis](https://github.com/luzengAdelaide/MS-GWAS/tree/main/COLOC_analysis): Performing genetic colocalisation analysis of eQTL and MS GWAS using coloc v5.1.0.  
+4. [COLOC analysis](https://github.com/luzengAdelaide/MS-GWAS/tree/main/COLOC_analysis): Performing genetic colocalisation analysis of eQTL and MS GWAS using coloc v5.1.0.  
    
-4. For PRS analysis, we used the PRS-CSx software (https://github.com/getian107/PRScsx), PRS was performed on the eMERGE-III cloud.
+5. For PRS analysis, we used the PRS-CSx software (https://github.com/getian107/PRScsx). The PRS was optimized and tested on the eMERGE-III cohort.
 
  ## Software download and installation instructions
  1. METAL: https://github.com/statgen/METAL

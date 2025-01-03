@@ -5,7 +5,7 @@ Repository for MS GWAS v4.0 multi-ancestry meta-analysis efforts at the Center f
 ## Abstract
 Multiple Sclerosis (MS) is a chronic inflammatory and neurodegenerative disease affecting the brain and spinal cord. Genetic studies have identified many risk loci, that were thought to primarily impact immune cells and microglia. Here, we performed a multi-ancestry genome- wide association study with 20,831 MS and 729,220 control participants, identifying 236 susceptibility variants outside the Major Histocompatibility Complex, including four novel loci. We derived a polygenic score for MS and, optimized for European ancestry, it is informative for African-American and Latino participants. Integrating single-cell data from blood and brain tissue, we identified 76 genes affected by MS risk variants. Notably, while T cells showed the strongest enrichment, inhibitory neurons emerged as a key cell type, highlighting the importance of neuronal and glial dysfunction in MS susceptibility.
 
-![FIGURE1](https://github.com/luzengAdelaide/MS-GWAS/blob/main/Figures/Figure1_gimp.pdf)
+![FIGURE1](https://github.com/luzengAdelaide/MS-GWAS/blob/main/Figures/Figure1.png)
 
 ## Links to manuscript
 

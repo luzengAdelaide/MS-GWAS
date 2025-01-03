@@ -5,6 +5,10 @@ library(stringr)
 args <- commandArgs(trailingOnly=TRUE)
 celltype <- args[1]
 
+# PBMC eQTL: Cell type annotation and cell type-level eQTL 
+# summary statistics are available at OneK1K cohorthttps://onek1k.org/
+# contact the authors if you need more details
+
 # eQTL directory of the target cell type
 eqtl_dir <- paste("~/PBMC_snucRNA/OneK1K_matrix_eQTL_results/", sep="")
 # output directory

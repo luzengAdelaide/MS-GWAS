@@ -1,6 +1,6 @@
 # Estimate heritability and genetic correlation from 24 GWAS summary statistics using LDSC
 # For more information, please refer to the source code: https://github.com/bulik/ldsc
-
+# Most of the GWAS summary statistics were downloaded from the GWAS Catalog - EMBL-EBI (https://www.ebi.ac.uk/gwas/). Additionally, some summary statistics were obtained from specific consortia, as referenced in their respective publications.
 #!/bin/bash
 
 #SBATCH --time=7-00:00 

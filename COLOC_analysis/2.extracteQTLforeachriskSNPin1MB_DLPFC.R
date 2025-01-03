@@ -5,6 +5,9 @@ library(stringr)
 args <- commandArgs(trailingOnly=TRUE)
 celltype <- args[1]
 
+# DLPFC eQTL: Cell type annotation and cell type-level eQTL 
+# summary statistics are available at Synapse (https://doi.org/10.7303/syn52335732)
+
 # eQTL directory of the target cell type
 eqtl_dir <- paste("~/snuc-eqtl/celltypes/", celltype, "/matrix-eqtl/", sep="")
 # output directory

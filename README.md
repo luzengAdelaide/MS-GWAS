@@ -25,13 +25,12 @@ Multiple Sclerosis (MS) is a chronic inflammatory and neurodegenerative disease 
 4. For PRS analysis, we used the PRS-CSx software (https://github.com/getian107/PRScsx). The PRS was optimized and tested on the eMERGE-III cohort.
 
  ## Software download and installation instructions
- 1. METAL: https://github.com/statgen/METAL
- 2. MR-MEGA: https://tools.gi.ut.ee/tools/MR-MEGA_v0.2.zip. More details can be found: https://genomics.ut.ee/en/tools
+ 1. METAL v.2011-03-25: https://github.com/statgen/METAL
+ 2. MR-MEGA v0.2: https://tools.gi.ut.ee/tools/MR-MEGA_v0.2.zip. More details can be found: https://genomics.ut.ee/en/tools
  3. PLINK v1.9: https://www.cog-genomics.org/plink/
- 4. LDSC: https://github.com/bulik/ldsc
- 5. PRS: https://github.com/getian107/PRScsx
- 6. COLOC: https://chr1swallace.github.io/coloc/
- 7. REGENIE: https://rgcgithub.github.io/regenie/
+ 4. LDSC v1.0.1: https://github.com/bulik/ldsc
+ 5. PRS-CSx v1.1.0: https://github.com/getian107/PRScsx
+ 6. COLOC v5.1.0: https://chr1swallace.github.io/coloc/
  
  ## Download data
 1. European LD scores from 1000 Genomes: https://zenodo.org/records/8182036

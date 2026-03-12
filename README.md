@@ -31,6 +31,7 @@ Multiple Sclerosis (MS) is a chronic inflammatory and neurodegenerative disease 
  4. LDSC v1.0.1: https://github.com/bulik/ldsc
  5. PRS-CSx v1.1.0: https://github.com/getian107/PRScsx
  6. COLOC v5.1.0: https://chr1swallace.github.io/coloc/
+ 7. SMR v1.0.3: https://yanglab.westlake.edu.cn/software/smr/#Overview
  
  ## Download data
 1. European LD scores from 1000 Genomes: https://zenodo.org/records/8182036
